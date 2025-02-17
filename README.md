@@ -21,3 +21,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sreevarshine&show_icons=true&locale=en" alt="sreevarshine" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sreevarshine&" alt="sreevarshine" /></p>
+
+## 🎯 *LeetCode Stats*
+<p align="center">
+  <img src="[https://leetcard.jacoblin.cool/?theme=dark&font=Montserrat&ext=heatmap](https://leetcard.jacoblin.cool/varshine_2211?theme=dark&font=Montserrat&ext=heatmap)"/>
+</p>
+
