@@ -24,6 +24,6 @@
 
 ## 🎯 *LeetCode Stats*
 <p align="center">
-  <img src="[https://leetcard.jacoblin.cool/?theme=dark&font=Montserrat&ext=heatmap](https://leetcard.jacoblin.cool/varshine_2211?theme=dark&font=Montserrat&ext=heatmap)"/>
+  <img src="https://leetcard.jacoblin.cool/varshine_2211?theme=dark&font=Montserrat&ext=heatmap"/>
 </p>
 
